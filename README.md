@@ -74,7 +74,7 @@ docs/apidocs/index.html
 
 La documentación generada se publica con GitHub Pages y se puede consultar en línea aquí:
 
-**[Documentación Javadoc publicada]([pablosantosvazquez.github.io/documentacion-proyecto-ud1-pablo-santosvazquez/apidocs](https://pablosantosvazquez.github.io/documentacion-proyecto-ud1-pablo-santosvazquez/apidocs/))**
+**[Documentación Javadoc publicada](https://pablosantosvazquez.github.io/documentacion-proyecto-ud1-pablo-santosvazquez/apidocs/)**
 
 
 
