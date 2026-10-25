@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.centro.incidencias","l":"App"},{"p":"es.centro.incidencias","l":"GestorIncidencias"},{"p":"es.centro.incidencias","l":"Incidencia"},{"p":"es.centro.incidencias","l":"IncidenciaNoEncontradaException"}];updateSearchResults();
